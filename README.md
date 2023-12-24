@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor or better @viyos</h1>
-<h3 align="center">Manufacturing Engineer and currently studying the data area</h3>
+<h3 align="center">Manufacturing Engineer and currently studying Data Engineering</h3>
 
 - 💬 Ask me about **SAS, SQL, Python, Power BI e Selenium**
 
